@@ -184,7 +184,7 @@ RETURN DIVIDE(ThisWeek - LastWeek, LastWeek) * 100
 
 ## 📐 Arquitectura
 
-![Arquitectura ETL & BI](ChatGPT Image 7 jul 2026, 16_15_38.png)
+![Arquitectura de la plataforma](./image/Architecture)
 
 ---
 
