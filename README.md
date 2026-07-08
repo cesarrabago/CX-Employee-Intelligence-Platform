@@ -59,8 +59,7 @@ Datos crudos de 6+ canales  →  ETL validado  →  DWH estrella  →  IA  →  
 
 ---
 
-## 📊 Dashboards Power BI
-
+## 📊 Dashboards
 ### Dashboard 1: CX Operations Board
 
 *Para gerentes de Customer Experience y supervisores de turno.*
